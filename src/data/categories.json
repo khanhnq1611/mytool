@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Bảo mật",
+    "slug": "security",
+    "icon": "Shield",
+    "subcategories": [
+      { "name": "Diệt Virus", "slug": "antivirus", "count": 42 },
+      { "name": "Tường lửa", "slug": "firewall", "count": 15 },
+      { "name": "Diệt Malware", "slug": "malware-removal", "count": 28 },
+      { "name": "VPN", "slug": "vpn", "count": 12 },
+      { "name": "Quản lý mật khẩu", "slug": "password-manager", "count": 8 }
+    ]
+  },
+  {
+    "name": "Lập trình",
+    "slug": "development",
+    "icon": "Code",
+    "subcategories": [
+      { "name": "IDE & Trình soạn thảo", "slug": "ides-editors", "count": 22 },
+      { "name": "Terminal", "slug": "terminals", "count": 10 },
+      { "name": "Quản lý phiên bản", "slug": "version-control", "count": 6 },
+      { "name": "Công cụ API", "slug": "api-tools", "count": 14 }
+    ]
+  },
+  {
+    "name": "Tiện ích",
+    "slug": "utilities",
+    "icon": "Wrench",
+    "subcategories": [
+      { "name": "Nén file", "slug": "compression", "count": 9 },
+      { "name": "Dọn dẹp hệ thống", "slug": "system-cleanup", "count": 11 },
+      { "name": "Sao lưu & Khôi phục", "slug": "backup-recovery", "count": 7 },
+      { "name": "Quản lý file", "slug": "file-management", "count": 13 }
+    ]
+  },
+  {
+    "name": "Trình duyệt",
+    "slug": "browsers",
+    "icon": "Globe",
+    "subcategories": [
+      { "name": "Trình duyệt web", "slug": "web-browsers", "count": 8 },
+      { "name": "Tiện ích mở rộng", "slug": "browser-extensions", "count": 15 }
+    ]
+  },
+  {
+    "name": "Đa phương tiện",
+    "slug": "media",
+    "icon": "Play",
+    "subcategories": [
+      { "name": "Trình phát video", "slug": "video-players", "count": 10 },
+      { "name": "Trình phát âm thanh", "slug": "audio-players", "count": 8 },
+      { "name": "Chỉnh sửa media", "slug": "media-editors", "count": 12 }
+    ]
+  },
+  {
+    "name": "Mạng",
+    "slug": "networking",
+    "icon": "Network",
+    "subcategories": [
+      { "name": "Trình quản lý tải xuống", "slug": "download-managers", "count": 7 },
+      { "name": "Điều khiển từ xa", "slug": "remote-desktop", "count": 6 },
+      { "name": "Công cụ mạng", "slug": "network-tools", "count": 9 }
+    ]
+  },
+  {
+    "name": "Văn phòng",
+    "slug": "office",
+    "icon": "FileText",
+    "subcategories": [
+      { "name": "Soạn thảo tài liệu", "slug": "document-editors", "count": 8 },
+      { "name": "Bảng tính", "slug": "spreadsheets", "count": 5 },
+      { "name": "Công cụ PDF", "slug": "pdf-tools", "count": 10 }
+    ]
+  }
+]

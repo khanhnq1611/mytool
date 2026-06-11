@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="wr-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7B2D8E"/>
+      <stop offset="100%" style="stop-color:#5B1D6E"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="8" fill="#F5F5F5"/>
+  <rect x="14" y="6" width="36" height="44" rx="3" fill="#8B3DA0"/>
+  <rect x="20" y="2" width="36" height="44" rx="3" fill="url(#wr-bg)"/>
+  <text x="38" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-weight="bold" font-size="14" fill="white">RAR</text>
+  <rect x="30" y="16" width="16" height="3" rx="1" fill="white" opacity="0.3"/>
+  <rect x="30" y="35" width="16" height="3" rx="1" fill="white" opacity="0.2"/>
+  <rect x="30" y="40" width="16" height="3" rx="1" fill="white" opacity="0.15"/>
+  <path d="M38 10 V6 L42 6 V10" stroke="white" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <rect x="36" y="8" width="4" height="4" rx="1" fill="white" opacity="0.4"/>
+</svg>

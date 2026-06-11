@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="wt-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0A0A0A"/>
+      <stop offset="100%" style="stop-color:#1E1E1E"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="12" fill="url(#wt-bg)"/>
+  <text x="8" y="28" font-family="Consolas,monospace" font-weight="bold" font-size="16" fill="#00D4AA">&gt;_</text>
+  <rect x="8" y="34" width="48" height="1.5" rx="0.75" fill="#333"/>
+  <text x="8" y="46" font-family="Consolas,monospace" font-size="10" fill="#CCCCCC">PS C:\&gt;</text>
+  <rect x="8" y="50" width="48" height="1.5" rx="0.75" fill="#333"/>
+  <circle cx="52" cy="12" r="5" fill="#0078D4" opacity="0.9"/>
+  <path d="M50 12 h4 M52 10 v4" stroke="white" stroke-width="1.2" stroke-linecap="round"/>
+</svg>

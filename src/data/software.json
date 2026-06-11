@@ -1,0 +1,630 @@
+[
+  {
+    "name": "Avast Free Antivirus",
+    "slug": "avast-free-antivirus",
+    "version": "24.2.6109",
+    "category": "security",
+    "subcategory": "antivirus",
+    "rating": 4.5,
+    "downloads": 3721219,
+    "description": "Avast Free Antivirus cung cấp khả năng bảo vệ toàn diện chống lại virus, malware và spyware. Với tính năng phát hiện mối đe dọa thời gian thực, quét dựa trên đám mây thông minh và kiểm tra bảo mật mạng, giúp giữ an toàn cho hệ thống mà không làm chậm máy.",
+    "tags": [
+      "diệt virus",
+      "miễn phí",
+      "bảo vệ thời gian thực",
+      "phần mềm độc hại"
+    ],
+    "updatedAt": "2026-01-15",
+    "size": "245 MB",
+    "platform": "Windows",
+    "featured": true,
+    "fileName": "avast-free-antivirus.zip"
+  },
+  {
+    "name": "Kaspersky Anti-Virus",
+    "slug": "kaspersky-antivirus",
+    "version": "21.17.8.539",
+    "category": "security",
+    "subcategory": "antivirus",
+    "rating": 4.7,
+    "downloads": 2856432,
+    "description": "Kaspersky Anti-Virus cung cấp khả năng bảo vệ thiết yếu chống lại mọi loại phần mềm độc hại. Kết hợp chức năng dựa trên đám mây với các công nghệ antivirus mạnh mẽ để bảo vệ PC của bạn mà không ảnh hưởng đến hiệu suất.",
+    "tags": [
+      "diệt virus",
+      "bảo vệ malware",
+      "bảo mật",
+      "real-time"
+    ],
+    "updatedAt": "2026-02-20",
+    "size": "180 MB",
+    "platform": "Windows",
+    "featured": true,
+    "fileName": "kaspersky-antivirus.zip"
+  },
+  {
+    "name": "Bitdefender Antivirus Free",
+    "slug": "bitdefender-antivirus-free",
+    "version": "27.0.33.146",
+    "category": "security",
+    "subcategory": "antivirus",
+    "rating": 4.6,
+    "downloads": 2345678,
+    "description": "Bitdefender Antivirus Free Edition sử dụng học máy và phát hiện hành vi để ngăn chặn các mối đe dọa tiên tiến. Nhẹ và tự động, hoạt động im lặng trong nền trong khi bạn sử dụng máy tính bình thường.",
+    "tags": [
+      "diệt virus",
+      "miễn phí",
+      "nhẹ",
+      "học máy"
+    ],
+    "updatedAt": "2026-03-10",
+    "size": "320 MB",
+    "platform": "Windows",
+    "fileName": "bitdefender-antivirus-free.zip"
+  },
+  {
+    "name": "Malwarebytes",
+    "slug": "malwarebytes",
+    "version": "5.1.2.110",
+    "category": "security",
+    "subcategory": "malware-removal",
+    "rating": 4.4,
+    "downloads": 4123456,
+    "description": "Malwarebytes tiêu diệt các mối đe dọa mà antivirus truyền thống bỏ lỡ. Sử dụng công nghệ heuristic tiên tiến để phát hiện và loại bỏ malware, ransomware và các chương trình không mong muốn khỏi hệ thống của bạn.",
+    "tags": [
+      "malware removal",
+      "chống malware",
+      "ransomware",
+      "quét virus"
+    ],
+    "updatedAt": "2026-04-01",
+    "size": "210 MB",
+    "platform": "Windows",
+    "fileName": "malwarebytes.zip"
+  },
+  {
+    "name": "Windows Defender",
+    "slug": "windows-defender",
+    "version": "2024.12.2009",
+    "category": "security",
+    "subcategory": "antivirus",
+    "rating": 4.2,
+    "downloads": 8921345,
+    "description": "Microsoft Defender Antivirus đi kèm với Windows 10/11 và cung cấp bảo vệ thời gian thực chống lại virus, ransomware và các mối đe dọa khác. Tích hợp liền mạch với hệ điều hành, tác động hiệu suất tối thiểu.",
+    "tags": [
+      "tích hợp sẵn",
+      "Windows",
+      "diệt virus",
+      "miễn phí"
+    ],
+    "updatedAt": "2026-03-28",
+    "size": "Built-in",
+    "platform": "Windows",
+    "featured": true,
+    "fileName": "windows-defender.zip"
+  },
+  {
+    "name": "Norton 360",
+    "slug": "norton-360",
+    "version": "24.4.0.92",
+    "category": "security",
+    "subcategory": "antivirus",
+    "rating": 4.3,
+    "downloads": 2723940,
+    "description": "Norton 360 cung cấp bảo mật thiết bị toàn diện với antivirus, VPN, giám sát web tối và sao lưu đám mây. Bảo vệ nhiều lớp giúp chống lại các mối đe dọa mạng hiện tại và mới nổi.",
+    "tags": [
+      "bộ bảo mật",
+      "VPN",
+      "diệt virus",
+      "sao lưu"
+    ],
+    "updatedAt": "2026-02-14",
+    "size": "195 MB",
+    "platform": "Windows",
+    "fileName": "norton-360.zip"
+  },
+  {
+    "name": "VS Code",
+    "slug": "vs-code",
+    "version": "1.96.0",
+    "category": "development",
+    "subcategory": "ides-editors",
+    "rating": 4.9,
+    "downloads": 12456789,
+    "description": "Visual Studio Code là trình soạn thảo mã nguồn nhẹ nhưng mạnh mẽ, chạy trên máy tính để bàn. Hỗ trợ sẵn JavaScript, TypeScript và Node.js với hệ sinh thái mở rộng phong phú cho các ngôn ngữ khác.",
+    "tags": [
+      "trình soạn thảo",
+      "IDE",
+      "lập trình",
+      "tiện ích mở rộng",
+      "miễn phí"
+    ],
+    "updatedAt": "2026-05-15",
+    "size": "95 MB",
+    "platform": "Windows",
+    "featured": true,
+    "fileName": "vs-code.zip"
+  },
+  {
+    "name": "Sublime Text",
+    "slug": "sublime-text",
+    "version": "4.0 Build 4180",
+    "category": "development",
+    "subcategory": "ides-editors",
+    "rating": 4.6,
+    "downloads": 5678432,
+    "description": "Sublime Text là trình soạn thảo văn bản tinh vi cho code, markup và văn xuôi. Giao diện người dùng mượt mà, các tính năng đặc biệt và hiệu suất tuyệt vời.",
+    "tags": [
+      "soạn thảo văn bản",
+      "lập trình",
+      "nhẹ",
+      "nhanh"
+    ],
+    "updatedAt": "2026-01-30",
+    "size": "18 MB",
+    "platform": "Windows",
+    "fileName": "sublime-text.zip"
+  },
+  {
+    "name": "JetBrains IntelliJ IDEA",
+    "slug": "intellij-idea",
+    "version": "2024.3.2",
+    "category": "development",
+    "subcategory": "ides-editors",
+    "rating": 4.8,
+    "downloads": 3456789,
+    "description": "IntelliJ IDEA là IDE hàng đầu cho phát triển Java và Kotlin. Cung cấp hiểu biết sâu về code, hoàn thành thông minh và các công cụ tái cấu trúc mạnh mẽ giúp tăng năng suất nhà phát triển.",
+    "tags": [
+      "IDE",
+      "Java",
+      "Kotlin",
+      "doanh nghiệp"
+    ],
+    "updatedAt": "2026-04-22",
+    "size": "1.2 GB",
+    "platform": "Windows",
+    "fileName": "intellij-idea.zip"
+  },
+  {
+    "name": "Git",
+    "slug": "git",
+    "version": "2.45.0",
+    "category": "development",
+    "subcategory": "version-control",
+    "rating": 4.8,
+    "downloads": 9876543,
+    "description": "Git là hệ thống quản lý phiên bản phân tán miễn phí và mã nguồn mở, được thiết kế để xử lý mọi thứ từ dự án nhỏ đến rất lớn với tốc độ và hiệu quả. Công cụ thiết yếu cho phát triển phần mềm hiện đại.",
+    "tags": [
+      "quản lý phiên bản",
+      "mã nguồn mở",
+      "phân tán",
+      "công cụ phát triển"
+    ],
+    "updatedAt": "2026-05-01",
+    "size": "48 MB",
+    "platform": "Windows",
+    "fileName": "git.zip"
+  },
+  {
+    "name": "Windows Terminal",
+    "slug": "windows-terminal",
+    "version": "1.20.11781.0",
+    "category": "development",
+    "subcategory": "terminals",
+    "rating": 4.5,
+    "downloads": 4567890,
+    "description": "Windows Terminal là ứng dụng terminal hiện đại cho người dùng dòng lệnh. Hỗ trợ nhiều tab, ngăn, ký tự Unicode/UTF-8, kết xuất văn bản tăng tốc GPU và chủ đề tùy chỉnh.",
+    "tags": [
+      "terminal",
+      "dòng lệnh",
+      "Windows",
+      "nhiều tab"
+    ],
+    "updatedAt": "2026-03-15",
+    "size": "35 MB",
+    "platform": "Windows",
+    "fileName": "windows-terminal.zip"
+  },
+  {
+    "name": "Postman",
+    "slug": "postman",
+    "version": "11.36.0",
+    "category": "development",
+    "subcategory": "api-tools",
+    "rating": 4.4,
+    "downloads": 6789012,
+    "description": "Postman là nền tảng API hàng đầu thế giới để xây dựng và kiểm thử API. Đơn giản hóa từng bước trong vòng đời API và tăng cường cộng tác cho phát triển API nhanh hơn.",
+    "tags": [
+      "API",
+      "kiểm thử",
+      "REST",
+      "phát triển"
+    ],
+    "updatedAt": "2026-04-10",
+    "size": "280 MB",
+    "platform": "Windows",
+    "fileName": "postman.zip"
+  },
+  {
+    "name": "7-Zip",
+    "slug": "7-zip",
+    "version": "24.08",
+    "category": "utilities",
+    "subcategory": "compression",
+    "rating": 4.7,
+    "downloads": 11234567,
+    "description": "7-Zip là trình nén file với tỷ lệ nén cao. Hỗ trợ đóng gói và giải nén 7z, ZIP, GZIP, BZIP2, TAR và nhiều định dạng khác. Miễn phí và mã nguồn mở với mã hóa AES-256 mạnh mẽ.",
+    "tags": [
+      "nén file",
+      "lưu trữ",
+      "miễn phí",
+      "mã nguồn mở"
+    ],
+    "updatedAt": "2026-02-28",
+    "size": "1.5 MB",
+    "platform": "Windows",
+    "fileName": "7-zip.zip"
+  },
+  {
+    "name": "WinRAR",
+    "slug": "winrar",
+    "version": "7.01",
+    "category": "utilities",
+    "subcategory": "compression",
+    "rating": 4.3,
+    "downloads": 8765432,
+    "description": "WinRAR là trình quản lý lưu trữ mạnh mẽ có thể sao lưu dữ liệu, giảm kích thước tệp đính kèm email, giải nén RAR, ZIP và các tệp khác, đồng thời tạo lưu trữ mới ở định dạng RAR và ZIP.",
+    "tags": [
+      "nén file",
+      "RAR",
+      "lưu trữ",
+      "sao lưu"
+    ],
+    "updatedAt": "2026-03-05",
+    "size": "3.2 MB",
+    "platform": "Windows",
+    "fileName": "winrar.zip"
+  },
+  {
+    "name": "CCleaner",
+    "slug": "ccleaner",
+    "version": "6.24.11060",
+    "category": "utilities",
+    "subcategory": "system-cleanup",
+    "rating": 4.1,
+    "downloads": 7654321,
+    "description": "CCleaner là công cụ số một để dọn dẹp PC. Bảo vệ quyền riêng tư trực tuyến và làm cho máy tính nhanh hơn và an toàn hơn. Dễ sử dụng, dọn dẹp một cú nhấp chuột.",
+    "tags": [
+      "dọn dẹp",
+      "tối ưu hóa",
+      "quyền riêng tư",
+      "registry"
+    ],
+    "updatedAt": "2026-04-18",
+    "size": "45 MB",
+    "platform": "Windows",
+    "fileName": "ccleaner.zip"
+  },
+  {
+    "name": "WinZip",
+    "slug": "winzip",
+    "version": "28.0",
+    "category": "utilities",
+    "subcategory": "compression",
+    "rating": 4,
+    "downloads": 5432109,
+    "description": "WinZip là tiện ích zip hàng đầu thế giới cho nén file, mã hóa, chia sẻ và sao lưu. Nén và giải nén file tức thì, bảo vệ bằng mã hóa cấp ngân hàng và chia sẻ trực tiếp lên đám mây.",
+    "tags": [
+      "zip",
+      "nén file",
+      "mã hóa",
+      "đám mây"
+    ],
+    "updatedAt": "2026-01-22",
+    "size": "12 MB",
+    "platform": "Windows",
+    "fileName": "winzip.zip"
+  },
+  {
+    "name": "Recuva",
+    "slug": "recuva",
+    "version": "1.53.2096",
+    "category": "utilities",
+    "subcategory": "backup-recovery",
+    "rating": 4.2,
+    "downloads": 6543210,
+    "description": "Recuva là tiện ích Windows miễn phí khôi phục các tệp bị xóa nhầm từ máy tính. Có thể khôi phục tệp từ đĩa bị hỏng hoặc đã định dạng và thậm chí khôi phục email đã xóa.",
+    "tags": [
+      "khôi phục",
+      "khôi phục xóa",
+      "khôi phục dữ liệu",
+      "miễn phí"
+    ],
+    "updatedAt": "2026-02-10",
+    "size": "7 MB",
+    "platform": "Windows",
+    "fileName": "recuva.zip"
+  },
+  {
+    "name": "Google Chrome",
+    "slug": "google-chrome",
+    "version": "126.0.6478.57",
+    "category": "browsers",
+    "subcategory": "web-browsers",
+    "rating": 4.5,
+    "downloads": 15678901,
+    "description": "Google Chrome là trình duyệt web nhanh, đơn giản và an toàn, được xây dựng cho web hiện đại. Tốc độ và sự đơn giản là đặc điểm nổi bật của Chrome, với tính năng tìm kiếm tức thì, dịch thanh công cụ và chủ đề.",
+    "tags": [
+      "trình duyệt",
+      "Google",
+      "nhanh",
+      "web"
+    ],
+    "updatedAt": "2026-05-20",
+    "size": "95 MB",
+    "platform": "Windows",
+    "featured": true,
+    "fileName": "google-chrome.zip"
+  },
+  {
+    "name": "Mozilla Firefox",
+    "slug": "mozilla-firefox",
+    "version": "127.0",
+    "category": "browsers",
+    "subcategory": "web-browsers",
+    "rating": 4.4,
+    "downloads": 8901234,
+    "description": "Mozilla Firefox là trình duyệt web miễn phí và mã nguồn mở do Mozilla Foundation phát triển. Firefox đặt quyền riêng tư lên hàng đầu với Bảo vệ theo dõi nâng cao và không thu thập dữ liệu ẩn.",
+    "tags": [
+      "trình duyệt",
+      "quyền riêng tư",
+      "mã nguồn mở",
+      "Mozilla"
+    ],
+    "updatedAt": "2026-05-18",
+    "size": "58 MB",
+    "platform": "Windows",
+    "fileName": "mozilla-firefox.zip"
+  },
+  {
+    "name": "Brave Browser",
+    "slug": "brave-browser",
+    "version": "1.67.123",
+    "category": "browsers",
+    "subcategory": "web-browsers",
+    "rating": 4.3,
+    "downloads": 4567890,
+    "description": "Brave là trình duyệt web miễn phí và mã nguồn mở chặn quảng cáo và trình theo dõi trang web theo mặc định. Cung cấp trải nghiệm duyệt web nhanh hơn, an toàn hơn với các tính năng bảo mật tích hợp.",
+    "tags": [
+      "trình duyệt",
+      "quyền riêng tư",
+      "chặn quảng cáo",
+      "tiền điện tử"
+    ],
+    "updatedAt": "2026-04-30",
+    "size": "110 MB",
+    "platform": "Windows",
+    "fileName": "brave-browser.zip"
+  },
+  {
+    "name": "VLC Media Player",
+    "slug": "vlc-media-player",
+    "version": "3.0.21",
+    "category": "media",
+    "subcategory": "video-players",
+    "rating": 4.7,
+    "downloads": 13456789,
+    "description": "VLC là trình phát đa phương tiện và framework đa nền tảng miễn phí, mã nguồn mở, phát hầu hết các tệp đa phương tiện cũng như DVD, CD âm thanh, VCD và nhiều giao thức phát trực tuyến. Không cần gói codec.",
+    "tags": [
+      "trình phát video",
+      "đa phương tiện",
+      "miễn phí",
+      "mã nguồn mở",
+      "codec"
+    ],
+    "updatedAt": "2026-03-22",
+    "size": "42 MB",
+    "platform": "Windows",
+    "featured": true,
+    "fileName": "vlc-media-player.zip"
+  },
+  {
+    "name": "foobar2000",
+    "slug": "foobar2000",
+    "version": "2.1.5",
+    "category": "media",
+    "subcategory": "audio-players",
+    "rating": 4.5,
+    "downloads": 3456789,
+    "description": "foobar2000 là trình phát âm thanh miễn phí nâng cao cho nền tảng Windows. Hỗ trợ đầy đủ Unicode, ReplayGain, nhiều định dạng âm thanh phổ biến và giao diện người dùng có thể tùy chỉnh.",
+    "tags": [
+      "trình phát âm thanh",
+      "âm nhạc",
+      "nhẹ",
+      "có thể tùy chỉnh"
+    ],
+    "updatedAt": "2026-02-25",
+    "size": "8 MB",
+    "platform": "Windows",
+    "fileName": "foobar2000.zip"
+  },
+  {
+    "name": "OBS Studio",
+    "slug": "obs-studio",
+    "version": "30.2.3",
+    "category": "media",
+    "subcategory": "media-editors",
+    "rating": 4.6,
+    "downloads": 7890123,
+    "description": "OBS Studio là phần mềm miễn phí và mã nguồn mở để ghi video và phát trực tiếp. Hỗ trợ chụp và trộn video/thời gian thực, chuyển đổi tùy chỉnh và API mạnh mẽ cho plugin.",
+    "tags": [
+      "phát trực tiếp",
+      "ghi hình",
+      "mã nguồn mở",
+      "video"
+    ],
+    "updatedAt": "2026-05-10",
+    "size": "125 MB",
+    "platform": "Windows",
+    "fileName": "obs-studio.zip"
+  },
+  {
+    "name": "Internet Download Manager",
+    "slug": "internet-download-manager",
+    "version": "6.42 Build 22",
+    "category": "networking",
+    "subcategory": "download-managers",
+    "rating": 4.4,
+    "downloads": 9012345,
+    "description": "Internet Download Manager (IDM) là công cụ tăng tốc độ tải xuống lên đến 5 lần, tiếp tục và lên lịch tải xuống. Khôi phục lỗi toàn diện và khả năng tiếp tục sẽ khởi động lại các tải xuống bị hỏng hoặc gián đoạn.",
+    "tags": [
+      "trình quản lý tải xuống",
+      "tăng tốc",
+      "tiếp tục",
+      "lên lịch"
+    ],
+    "updatedAt": "2026-04-05",
+    "size": "10 MB",
+    "platform": "Windows",
+    "fileName": "internet-download-manager.zip"
+  },
+  {
+    "name": "TeamViewer",
+    "slug": "teamviewer",
+    "version": "15.58.4",
+    "category": "networking",
+    "subcategory": "remote-desktop",
+    "rating": 4.2,
+    "downloads": 6789012,
+    "description": "TeamViewer là giải pháp truy cập từ xa, điều khiển từ xa và hỗ trợ từ xa toàn diện. Kết nối với bất kỳ PC hoặc máy chủ nào trên thế giới trong vài giây. Miễn phí cho sử dụng cá nhân.",
+    "tags": [
+      "điều khiển từ xa",
+      "hỗ trợ",
+      "truy cập",
+      "cộng tác"
+    ],
+    "updatedAt": "2026-03-30",
+    "size": "38 MB",
+    "platform": "Windows",
+    "fileName": "teamviewer.zip"
+  },
+  {
+    "name": "PuTTY",
+    "slug": "putty",
+    "version": "0.81",
+    "category": "networking",
+    "subcategory": "network-tools",
+    "rating": 4.3,
+    "downloads": 5678901,
+    "description": "PuTTY là trình giả lập terminal miễn phí và mã nguồn mở, ứng dụng chuyển tệp mạng và bảng điều khiển nối tiếp. Hỗ trợ nhiều giao thức mạng bao gồm SSH, Telnet, rlogin và kết nối socket thô.",
+    "tags": [
+      "SSH",
+      "terminal",
+      "mã nguồn mở",
+      "mạng"
+    ],
+    "updatedAt": "2026-01-18",
+    "size": "3 MB",
+    "platform": "Windows",
+    "fileName": "putty.zip"
+  },
+  {
+    "name": "Notepad++",
+    "slug": "notepad-plus-plus",
+    "version": "8.6.8",
+    "category": "development",
+    "subcategory": "ides-editors",
+    "rating": 4.7,
+    "downloads": 10234567,
+    "description": "Notepad++ là trình soạn thảo mã nguồn miễn phí và thay thế Notepad hỗ trợ nhiều ngôn ngữ. Chạy trong môi trường MS Windows, sử dụng được quản lý bởi giấy phép GPL. Sử dụng thành phần chỉnh sửa Scintilla.",
+    "tags": [
+      "soạn thảo văn bản",
+      "lập trình",
+      "miễn phí",
+      "nhẹ"
+    ],
+    "updatedAt": "2026-05-05",
+    "size": "4 MB",
+    "platform": "Windows",
+    "fileName": "notepad-plus-plus.zip"
+  },
+  {
+    "name": "Wireshark",
+    "slug": "wireshark",
+    "version": "4.2.6",
+    "category": "networking",
+    "subcategory": "network-tools",
+    "rating": 4.6,
+    "downloads": 4321098,
+    "description": "Wireshark là trình phân tích giao thức mạng hàng đầu và được sử dụng rộng rãi nhất thế giới. Cho phép bạn xem những gì đang xảy ra trên mạng ở cấp độ vi mô và là tiêu chuẩn thực tế trong nhiều ngành.",
+    "tags": [
+      "phân tích mạng",
+      "bắt gói tin",
+      "giao thức",
+      "bảo mật"
+    ],
+    "updatedAt": "2026-04-15",
+    "size": "78 MB",
+    "platform": "Windows",
+    "fileName": "wireshark.zip"
+  },
+  {
+    "name": "Adobe Acrobat Reader",
+    "slug": "adobe-acrobat-reader",
+    "version": "24.002.20895",
+    "category": "office",
+    "subcategory": "pdf-tools",
+    "rating": 4.1,
+    "downloads": 11000000,
+    "description": "Adobe Acrobat Reader là hệ thống quản lý tài liệu toàn cầu miễn phí đáng tin cậy nhất. Xem, chỉnh sửa, ký và chú thích tài liệu PDF với trình xem PDF hàng đầu ngành.",
+    "tags": [
+      "PDF",
+      "trình đọc",
+      "tài liệu",
+      "Adobe"
+    ],
+    "updatedAt": "2026-05-22",
+    "size": "350 MB",
+    "platform": "Windows",
+    "fileName": "adobe-acrobat-reader.zip"
+  },
+  {
+    "name": "LibreOffice",
+    "slug": "libreoffice",
+    "version": "24.8.0",
+    "category": "office",
+    "subcategory": "document-editors",
+    "rating": 4.4,
+    "downloads": 5678901,
+    "description": "LibreOffice là bộ ứng dụng văn phòng mạnh mẽ và miễn phí được hàng triệu người trên thế giới sử dụng. Bao gồm Writer, Calc, Impress, Draw, Base và Math — bộ công cụ năng suất chất lượng chuyên nghiệp hoàn chỉnh.",
+    "tags": [
+      "bộ ứng dụng văn phòng",
+      "tài liệu",
+      "miễn phí",
+      "mã nguồn mở"
+    ],
+    "updatedAt": "2026-03-12",
+    "size": "340 MB",
+    "platform": "Windows",
+    "fileName": "libreoffice.zip"
+  },
+  {
+    "name": "CapCut Pro",
+    "slug": "capcut-pro",
+    "version": "4.0.0",
+    "category": "media",
+    "subcategory": "media-editors",
+    "rating": 4.5,
+    "downloads": 8500000,
+    "description": "CapCut Pro là trình chỉnh sửa video miễn phí mạnh mẽ từ ByteDance. Cung cấp bộ công cụ chỉnh sửa chuyên nghiệp với hiệu ứng, bộ lọc, nhạc nền, phụ đề tự động bằng AI và kho template phong phú. Lý tưởng cho việc tạo nội dung TikTok, YouTube và mạng xã hội.",
+    "tags": [
+      "chỉnh sửa video",
+      "miễn phí",
+      "TikTok",
+      "AI"
+    ],
+    "updatedAt": "2026-06-10",
+    "size": "280 MB",
+    "platform": "Windows",
+    "fileName": "capcut-pro.zip"
+  }
+]
